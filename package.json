@@ -1,0 +1,23 @@
+{
+  "name": "recipe-box",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnguyenbee/recipe-box.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnguyenbee/recipe-box/issues"
+  },
+  "homepage": "https://github.com/jnguyenbee/recipe-box#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.10"
+  }
+}
