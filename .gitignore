@@ -1,6 +1,6 @@
 
-# Ignore node_modles
-node_modles
+# Ignore node_modules
+node_modules
 
 # Ignore file related to API Keys
 .env
